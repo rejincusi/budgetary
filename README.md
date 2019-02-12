@@ -1,5 +1,4 @@
-# vue-webpack-vuetify-vuex-cordova-boilerplate
-
+# Budgetary using Vue
 > Vue.js, Webpack, Vuetify, Vuex, Cordova boilerplate
 
 ## Build Setup

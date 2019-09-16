@@ -1,5 +1,6 @@
-# Budgetary using Vue
-> Vue.js, Webpack, Vuetify, Vuex, Cordova boilerplate
+# Budgetary Demo
+
+![Snippet](https://user-images.githubusercontent.com/46905261/64961977-e4fd2480-d896-11e9-9ca5-ba743dd52d9e.gif)
 
 ## Build Setup
 
